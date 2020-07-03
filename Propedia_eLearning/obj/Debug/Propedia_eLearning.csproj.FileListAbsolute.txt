@@ -1,0 +1,50 @@
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.exe.config
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.exe
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.pdb
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Core.dll
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Core.xml
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\en-US.dll
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\AwesomiumProcess
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.dll
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\bin\Debug\icudt42.dll
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Homepage.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.WelcomeScreen.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Eggrafi.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Properties.Resources.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Sindesi.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.GenerateResource.cache
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.CoreCompileInputs.cache
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.CopyComplete
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.exe
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.pdb
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csprojAssemblyReference.cache
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Anaktisi_Pwd.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Testpage.resources
+C:\Users\dorot\OneDrive - unipi.gr\Some Docs\Moodle\ΕΚΠΑΙΔΕΥΤΙΚΟ ΛΟΓΙΣΜΙΚΟ\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Admin.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.exe.config
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.exe
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Propedia_eLearning.pdb
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Core.dll
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Core.xml
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\en-US.dll
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\AwesomiumProcess
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\Awesomium.dll
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\bin\Debug\icudt42.dll
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csprojAssemblyReference.cache
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Admin.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Anaktisi_Pwd.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Homepage.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Testpage.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.WelcomeScreen.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Eggrafi.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Properties.Resources.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.Sindesi.resources
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.GenerateResource.cache
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.CoreCompileInputs.cache
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.csproj.CopyComplete
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.exe
+C:\Users\dorot\Desktop\Propedia_eLearning\Propedia_eLearning\obj\Debug\Propedia_eLearning.pdb
